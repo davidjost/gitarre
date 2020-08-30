@@ -1,0 +1,6 @@
+---
+title: Don't think twice, it's all right
+artist: Bob Dylan
+teacher: Josh Turner
+lesson: https://www.youtube.com/watch?v=NNVYwE-KGkQ
+---
