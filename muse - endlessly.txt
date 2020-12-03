@@ -30,7 +30,7 @@ Am
  ×  ┊  ┊  ┊  ┊  ┊
 ——————————————————
 
-E7sus4
+Esus4
  E  A  D  G  B  e
 ==================
  │  ┊  ┊  ┊  ┊  ┊
@@ -66,6 +66,30 @@ Bb
  │  ┊  ┊  ┊  ┊  ┊
 ——————————————————
 
+Dsus4
+ E  A  D  G  B  e
+==================
+ │  ┊  ┊  ┊  ┊  ┊
+——————————————————
+ │  ┊  ┊  2  ┊  ┊
+——————————————————
+ │  ┊  ┊  ┊  3  4
+——————————————————
+ │  ┊  ┊  ┊  ┊  ┊
+——————————————————
+
+Dm
+ E  A  D  G  B  e
+==================
+ │  ┊  ┊  ┊  ┊  1
+——————————————————
+ │  ┊  ┊  2  ┊  ┊
+——————————————————
+ │  ┊  ┊  ┊  3  ┊
+——————————————————
+ │  ┊  ┊  ┊  ┊  ┊
+——————————————————
+
 
 [Intro ]
 Play chord first alternating with base
@@ -73,11 +97,11 @@ Play chord first alternating with base
 4x Asus4   2x Am   1x Asus4   1x Am   4x Esus4   4x E
 
 
-          Asus4   Am        Esus4 E
-There's a part of me you'll never know
+          Asus4   Am  Asus4 Esus4  E
+There's a part of me you'll never  know
 
-    Asus4  Am       Esus4 E
-The only thing I'll never show
+    Asus4  Am  Asus4  Esus4 E
+The only   thing I'll never show
 
 
 [Chorus]
