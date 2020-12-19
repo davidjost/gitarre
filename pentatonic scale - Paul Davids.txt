@@ -3,6 +3,8 @@ title: This is how you learn the pentatonics
 artist: Paul Davids
 teacher: Paul Davids
 lesson: https://www.youtube.com/watch?v=X9rYOhX77mA
+teacher_two: Scott Paul Johnson
+lesson_two: https://www.youtube.com/watch?v=uuraAIKyPiQ
 ---
 
 Pentatonic Box 1, A is root note (is this correct?)
@@ -31,3 +33,21 @@ G|---E---|-------|-------|---G---|-------|
 D|-------|---C---|-------|---D---|-------|
 A|-------|---G---|-------|---A---|-------|
 E|-------|---D---|-------|---E---|-------|
+
+
+
+Lesson two
+
+e|--------------------------------5--8----
+B|--------------------------5--8----------
+G|--------------------5--7----------------
+D|--------------5--7----------------------
+A|--------5--7----------------------------
+E|--5--8----------------------------------
+Notes, low to high:
+A C D E G
+A C D E G
+A C
+
+Major scale: C D E F G A B C
+Minor scale: A B C D E F G A
