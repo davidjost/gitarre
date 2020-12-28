@@ -51,3 +51,14 @@ A C
 
 Major scale: C D E F G A B C
 Minor scale: A B C D E F G A
+
+G Chord is made out of 3 Notes:
+G B D , play these anywhere on the fretboard for a G chord
+
+In every chord only 3 notes appear
+
+C = C E G
+A = A C# E
+G = G B D
+E = E G# B
+D = D F# A
