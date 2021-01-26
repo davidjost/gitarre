@@ -1,6 +1,8 @@
 ---
 title: The Wellerman
 artist: The Weller Bros. shore-whaling company
+song: https://www.youtube.com/watch?v=-KO7cofMJH0
+vocals: Wellerman - Sea shanty by Nathan Evans on spotify
 ---
 
 Capo 3rd
