@@ -1,0 +1,48 @@
+Brendan Acker, Josh Turner - Liebestraum
+https://www.youtube.com/watch?v=Fwe6gE-O5q8
+
+Chet Atkins style part
+
+Travis Picking:
+T Thumb
+1 Index
+2 Middle
+3 Ring
+4 Pinky
+
+E----------T--------------------
+A-T----------------------------
+D----T-----------T--------------
+G-------1-----------1-----------
+B-2-----------2-----------------
+e-------------------------------
+
+Josh improvises and changes the picking flow around during the song.
+
+E 7th  -  7  7  9  9  9  x
+Ab/7   -  x 11 10 11  9  x
+Db     -  9 11 11 10  9  x
+E5/Gb  -  x  9  8  9  9  x
+F#     -  2  4  4  3  2  x
+F7     -  2  4  2  3  2  x
+Ebsus4 -  7  9  7  8  9  x
+E      -  0  2  2  1  0  0
+Fm 8th -  8  8 10 10  9  8
+Am 5th -  5  7  7  5  5  5
+B      -  2  2  4  4  4  2
+
+
+base-down - D# C C#     E-string: 11-10-9
+base-up   - B C# D# E   A-string: 2-4-6-7
+light-up  - D# E G#     B-string: 4-5-9
+base-up2  - E A F#      E-string: 0-5-2
+
+
+[Intro]
+base-down
+
+E  Ab7/7  base-down  Db (pick A note 10th fret) E5/Gb  F#  F#7  light-up  Ebsus4  E
+
+[Classical part]
+
+Fm 8th  Am 5th  base-up2  B
